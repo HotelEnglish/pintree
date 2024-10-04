@@ -3,42 +3,7 @@
     "type": "folder",
     "addDate": 1718526477999,
     "title": "Bookmarks Bar",
-    "children": [
-      {
-        "type": "link",
-        "addDate": 1718526687700,
-        "title": "Google",
-        "icon": "https://logo.clearbit.com/www.google.com",
-        "url": "https://www.google.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1718526707006,
-        "title": "X",
-        "icon": "https://logo.clearbit.com/x.com",
-        "url": "https://x.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1718526755466,
-        "title": "YouTube",
-        "icon": "https://logo.clearbit.com/www.youtube.com",
-        "url": "https://www.youtube.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1718526778937,
-        "title": "instagram",
-        "icon": "https://logo.clearbit.com/www.instagram.com",
-        "url": "https://www.instagram.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1718526802202,
-        "title": "Facebook",
-        "icon": "https://logo.clearbit.com/www.facebook.com",
-        "url": "https://www.facebook.com/"
-      },
+    "children": [     
       {
         "type": "folder",
         "addDate": 1718526865665,
@@ -7683,11 +7648,6 @@
             }
           ]
         },
-        {
-          "type": "folder",
-          "addDate": 1707230572820,
-          "title": "服务器",
-          "children": [
             {
               "type": "link",
               "addDate": 1699528259937,
@@ -7722,9 +7682,7 @@
               "title": "酒店英语",
               "icon": "https://logo.clearbit.com/49.234.126.240",
               "url": "http://49.234.126.240:20683/6a760722"
-            }
-          ]
-        },
+            },
         {
           "type": "folder",
           "addDate": 1623199067426,
