@@ -7644,16 +7644,16 @@
             {
               "type": "link",
               "addDate": 1699528259937,
-              "title": "zsk.begs.cn_苏荷",
+              "title": "文心一言",
               "icon": "https://logo.clearbit.com/120.24.170.62",
-              "url": "http://120.24.170.62:10906/3dce54e1"
+              "url": "https://yiyan.baidu.com/"
             },
             {
               "type": "link",
               "addDate": 1699885732351,
-              "title": "237 hnsoho.com_乐乐",
+              "title": "腾讯元宝",
               "icon": "https://logo.clearbit.com/120.78.64.237",
-              "url": "http://120.78.64.237:38478/a698c4d4"
+              "url": "https://yuanbao.tencent.com/"
             },
             {
               "type": "link",
@@ -7672,9 +7672,37 @@
             {
               "type": "link",
               "addDate": 1707230698216,
-              "title": "酒店英语",
+              "title": "迅飞星火",
               "icon": "https://logo.clearbit.com/49.234.126.240",
-              "url": "http://49.234.126.240:20683/6a760722"
+              "url": "https://xinghuo.xfyun.cn/desk"
+            },
+            {
+              "type": "link",
+              "addDate": 1707230698216,
+              "title": "KIMI",
+              "icon": "https://logo.clearbit.com/49.234.126.240",
+              "url": "https://kimi.moonshot.cn/chat/"
+            },
+            {
+              "type": "link",
+              "addDate": 1707230698216,
+              "title": "Claude",
+              "icon": "https://logo.clearbit.com/49.234.126.240",
+              "url": "https://claude.ai/"
+            },
+            {
+              "type": "link",
+              "addDate": 1707230698216,
+              "title": "龚老师助理",
+              "icon": "https://logo.clearbit.com/49.234.126.240",
+              "url": "https://ai.hotelenglish.cn/"
+            },
+            {
+              "type": "link",
+              "addDate": 1707230698216,
+              "title": "Lober 助理",
+              "icon": "https://logo.clearbit.com/49.234.126.240",
+              "url": "https://siri.begs.cn/"
             },
         {
           "type": "link",
@@ -7688,7 +7716,7 @@
           "addDate": 1597407058000,
           "title": "酒店英语",
           "icon": "https://logo.clearbit.com/www.hotelenglish.cn",
-          "url": "https://www.hotelenglish.cn/wp-admin"
+          "url": "https://www.hotelenglish.cn/"
         },
         {
           "type": "link",
@@ -7758,7 +7786,7 @@
           "addDate": 1709181875452,
           "title": "龚老师科技",
           "icon": "https://logo.clearbit.com/begs.cn",
-          "url": "https://begs.cn/wp-admin/"
+          "url": "https://begs.cn/"
         },
         {
           "type": "link",
