@@ -7728,9 +7728,9 @@
         {
           "type": "link",
           "addDate": 1612437461000,
-          "title": "浏览器设置",
-          "icon": "https://logo.clearbit.com/settings",
-          "url": "edge://settings/"
+          "title": "word 2 markdown",
+          "icon": "https://w2m.begs.cn/favicon.png",
+          "url": "https://w2m.begs.cn"
         },
         {
           "type": "link",
