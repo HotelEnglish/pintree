@@ -401,24 +401,10 @@
               },
               {
                 "type": "link",
-                "addDate": 1706359549626,
-                "title": "文心一言",
-                "icon": "https://logo.clearbit.com/yiyan.baidu.com",
-                "url": "https://yiyan.baidu.com/"
-              },
-              {
-                "type": "link",
                 "addDate": 1705635959018,
                 "title": "ChatGPT",
                 "icon": "https://logo.clearbit.com/chat-shared3.zhile.io",
                 "url": "https://chat-shared3.zhile.io/?v=2"
-              },
-              {
-                "type": "link",
-                "addDate": 1701176097843,
-                "title": "Kimi Chat - 帮你看更大的世界",
-                "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
-                "url": "https://kimi.moonshot.cn/chat/cliu5it0tc14igj6mr40"
               },
               {
                 "type": "link",
@@ -485,13 +471,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1726962112148,
-                "title": "AI大模型 对比测试",
-                "icon": "https://logo.clearbit.com/lmarena.ai",
-                "url": "https://lmarena.ai/"
-              },
-              {
-                "type": "link",
                 "addDate": 1729349094102,
                 "title": "AI Prompt Generator: Create and Optimize Prompts for ChatGPT, Claude, Midjourney, Flux, and Stable Diffusion",
                 "icon": "https://logo.clearbit.com/www.aipromptgenerator.net",
@@ -538,13 +517,6 @@
                 "title": "paper-referens – Deployment Overview",
                 "icon": "https://logo.clearbit.com/vercel.com",
                 "url": "https://vercel.com/hotelenglishs-projects/paper-referens/H8WiGxiwYENc2ZCm6PtDpat2Ws5j"
-              },
-              {
-                "type": "link",
-                "addDate": 1738309708243,
-                "title": "Qwen",
-                "icon": "https://logo.clearbit.com/chat.qwenlm.ai",
-                "url": "https://chat.qwenlm.ai/"
               }
             ]
           },
@@ -1035,13 +1007,6 @@
                 "title": "老照片修复",
                 "icon": "https://logo.clearbit.com/jpghd.com",
                 "url": "https://jpghd.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1683630023156,
-                "title": "在线抠图 - 在线工具",
-                "icon": "https://logo.clearbit.com/tool.lu",
-                "url": "https://tool.lu/cutout/"
               },
               {
                 "type": "link",
@@ -1539,13 +1504,6 @@
                 "title": "音乐搜索器 - 多站合一音乐搜索,音乐在线试听",
                 "icon": "https://logo.clearbit.com/music.hi.cn",
                 "url": "http://music.hi.cn/"
-              },
-              {
-                "type": "link",
-                "addDate": 1706358864558,
-                "title": "在线免费文字转语音 - TTSMaker官网 | 马克配音",
-                "icon": "https://logo.clearbit.com/ttsmaker.cn",
-                "url": "https://ttsmaker.cn/"
               }
             ]
           },
@@ -4815,6 +4773,62 @@
       },
       {
         "type": "link",
+        "addDate": 1706359549626,
+        "title": "文心一言",
+        "icon": "https://logo.clearbit.com/yiyan.baidu.com",
+        "url": "https://yiyan.baidu.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1745136210359,
+        "title": "腾讯元宝 - 轻松工作 多点生活",
+        "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
+        "url": "https://yuanbao.tencent.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1745136187053,
+        "title": "通义 - 你的实用AI助手",
+        "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+        "url": "https://tongyi.aliyun.com/qianwen/"
+      },
+      {
+        "type": "link",
+        "addDate": 1738309708243,
+        "title": "Qwen",
+        "icon": "https://logo.clearbit.com/chat.qwenlm.ai",
+        "url": "https://chat.qwenlm.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1745135826234,
+        "title": "豆包 - 字节跳动旗下 AI 智能助手",
+        "icon": "https://logo.clearbit.com/www.doubao.com",
+        "url": "https://www.doubao.com/chat/"
+      },
+      {
+        "type": "link",
+        "addDate": 1701176097843,
+        "title": "Kimi Chat - 帮你看更大的世界",
+        "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+        "url": "https://kimi.moonshot.cn/chat/cliu5it0tc14igj6mr40"
+      },
+      {
+        "type": "link",
+        "addDate": 1745135843936,
+        "title": "App unavailable \\ Anthropic",
+        "icon": "https://logo.clearbit.com/claude.ai",
+        "url": "https://claude.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1745135861697,
+        "title": "Gemini",
+        "icon": "https://logo.clearbit.com/aistudio.google.com",
+        "url": "https://aistudio.google.com/"
+      },
+      {
+        "type": "link",
         "addDate": 1564448417000,
         "title": "GZH",
         "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
@@ -4847,6 +4861,27 @@
         "title": "编辑",
         "icon": "https://logo.clearbit.com/www.yunjiaocai.cn",
         "url": "https://www.yunjiaocai.cn/api/beverage/edit/"
+      },
+      {
+        "type": "link",
+        "addDate": 1683630023156,
+        "title": "在线抠图 - 在线工具",
+        "icon": "https://logo.clearbit.com/tool.lu",
+        "url": "https://tool.lu/cutout/"
+      },
+      {
+        "type": "link",
+        "addDate": 1706358864558,
+        "title": "在线免费文字转语音 - TTSMaker官网 | 马克配音",
+        "icon": "https://logo.clearbit.com/ttsmaker.cn",
+        "url": "https://ttsmaker.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1726962112148,
+        "title": "AI大模型 对比测试",
+        "icon": "https://logo.clearbit.com/lmarena.ai",
+        "url": "https://lmarena.ai/"
       },
       {
         "type": "link",
@@ -4889,6 +4924,13 @@
         "title": "GitHub",
         "icon": "https://logo.clearbit.com/github.com",
         "url": "https://github.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1745136424342,
+        "title": "扣子",
+        "icon": "https://logo.clearbit.com/www.coze.cn",
+        "url": "https://www.coze.cn/"
       }
     ]
   }
