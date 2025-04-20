@@ -4814,48 +4814,6 @@
         ]
       },
       {
-        "type": "folder",
-        "addDate": 1707230572820,
-        "title": "服务器",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1707230698216,
-            "title": ".80-酒店英语-5945",
-            "icon": "https://logo.clearbit.com/119.91.130.80",
-            "url": "http://119.91.130.80:20683/6a760722"
-          },
-          {
-            "type": "link",
-            "addDate": 1730809485197,
-            "title": ".68-知识库-ttpod",
-            "icon": "https://logo.clearbit.com/106.52.215.68",
-            "url": "http://106.52.215.68:10906/3dce54e1"
-          },
-          {
-            "type": "link",
-            "addDate": 1733130846554,
-            "title": ".245 云教材-原",
-            "icon": "https://logo.clearbit.com/106.52.171.245",
-            "url": "http://106.52.171.245:38478/a698c4d4"
-          },
-          {
-            "type": "link",
-            "addDate": 1739700291898,
-            "title": "m.begs.阿里",
-            "icon": "https://logo.clearbit.com/112.74.36.9",
-            "url": "http://112.74.36.9:17294/c82bb5d0"
-          },
-          {
-            "type": "link",
-            "addDate": 1740925122186,
-            "title": "zsk.246",
-            "icon": "https://logo.clearbit.com/119.29.149.246",
-            "url": "http://119.29.149.246:10906/3dce54e1"
-          }
-        ]
-      },
-      {
         "type": "link",
         "addDate": 1564448417000,
         "title": "GZH",
@@ -4924,7 +4882,7 @@
         "title": "飞书",
         "icon": "https://logo.clearbit.com/ivvvpv0fa17.feishu.cn",
         "url": "https://ivvvpv0fa17.feishu.cn/admin/index"
-      },      
+      },
       {
         "type": "link",
         "addDate": 1745117366056,
