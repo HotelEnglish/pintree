@@ -5184,6 +5184,13 @@
         "icon": "https://logo.clearbit.com/www.aliyun.com",
         "url": "https://www.aliyun.com/"
       },
+            {
+        "type": "link",
+        "addDate": 1701954765074,
+        "title": "腾讯",
+        "icon": "https://logo.clearbit.com/www.tencent.com",
+        "url": "https://cloud.tencent.com/"
+      },
       {
         "type": "link",
         "addDate": 1718445541262,
