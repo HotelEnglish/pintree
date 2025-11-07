@@ -5,6 +5,13 @@
     "title": "收藏夹栏",
     "children": [
       {
+        "type": "link",
+        "addDate": 1758595580260,
+        "title": "通义 - 你的超级个人助理",
+        "icon": "https://logo.clearbit.com/www.tongyi.com",
+        "url": "https://www.tongyi.com/"
+      },
+      {
         "type": "folder",
         "addDate": 1683422311330,
         "title": "AI工具",
@@ -377,6 +384,27 @@
                 "title": "Swift",
                 "icon": "https://logo.clearbit.com/swift-ai.vercel.app",
                 "url": "https://swift-ai.vercel.app/"
+              },
+              {
+                "type": "link",
+                "addDate": 1748409443334,
+                "title": "Medeo | Create",
+                "icon": "https://logo.clearbit.com/ai.medeo.app",
+                "url": "https://ai.medeo.app/create"
+              },
+              {
+                "type": "link",
+                "addDate": 1748498239518,
+                "title": "图转提示 - 免费快速将图像转换为提示",
+                "icon": "https://logo.clearbit.com/imagetoprompt.org",
+                "url": "https://imagetoprompt.org/zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1752485197740,
+                "title": "ViiTor AI - Try Free Multilingual Video Translation & Voice Cloning",
+                "icon": "https://logo.clearbit.com/www.viitor.com",
+                "url": "https://www.viitor.com/zh/workbench/text-to-speech?id=300439&type=PERSONAL"
               }
             ]
           },
@@ -517,6 +545,13 @@
                 "title": "paper-referens – Deployment Overview",
                 "icon": "https://logo.clearbit.com/vercel.com",
                 "url": "https://vercel.com/hotelenglishs-projects/paper-referens/H8WiGxiwYENc2ZCm6PtDpat2Ws5j"
+              },
+              {
+                "type": "link",
+                "addDate": 1760591456625,
+                "title": "免费在线二维码生成器",
+                "icon": "https://logo.clearbit.com/cn.online-qrcode-generator.com",
+                "url": "https://cn.online-qrcode-generator.com/"
               }
             ]
           },
@@ -720,6 +755,13 @@
                 "title": "新建标签页",
                 "icon": "https://logo.clearbit.com/newtab",
                 "url": "edge://newtab/"
+              },
+              {
+                "type": "link",
+                "addDate": 1750324679150,
+                "title": "首页",
+                "icon": "https://logo.clearbit.com/www.tiangong.cn",
+                "url": "https://www.tiangong.cn/"
               }
             ]
           },
@@ -855,6 +897,13 @@
                 "url": "https://mcp.composio.dev/"
               }
             ]
+          },
+          {
+            "type": "link",
+            "addDate": 1726962112148,
+            "title": "AI大模型 对比测试",
+            "icon": "https://logo.clearbit.com/lmarena.ai",
+            "url": "https://lmarena.ai/"
           }
         ]
       },
@@ -1024,13 +1073,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1690700927417,
-                "title": "PS |Online Photoshop 【在线PS】",
-                "icon": "https://logo.clearbit.com/www.tuyitu.com",
-                "url": "https://www.tuyitu.com/ps/sources/"
-              },
-              {
-                "type": "link",
                 "addDate": 1615857395000,
                 "title": "花瓣网",
                 "icon": "https://logo.clearbit.com/huaban.com",
@@ -1119,6 +1161,20 @@
                 "title": "图",
                 "icon": "https://logo.clearbit.com/www.shutterstock.com",
                 "url": "https://www.shutterstock.com/zh/"
+              },
+              {
+                "type": "link",
+                "addDate": 1683630023156,
+                "title": "在线抠图 - 在线工具",
+                "icon": "https://logo.clearbit.com/tool.lu",
+                "url": "https://tool.lu/cutout/"
+              },
+              {
+                "type": "link",
+                "addDate": 1761966132898,
+                "title": "在线网页版PS, 免费专业的全功能图片处理工具",
+                "icon": "https://logo.clearbit.com/www.tugaigai.com",
+                "url": "https://www.tugaigai.com/online_ps/"
               }
             ]
           },
@@ -1385,6 +1441,13 @@
                 "title": "搜图",
                 "icon": "https://logo.clearbit.com/nohat.cc",
                 "url": "https://nohat.cc/tool/findstock"
+              },
+              {
+                "type": "link",
+                "addDate": 1753665006312,
+                "title": "园景大床房图片—正版园景大床房图片_高清园景大床房图片购买、下载-视觉中国vcg.com",
+                "icon": "https://logo.clearbit.com/www.vcg.com",
+                "url": "https://www.vcg.com/creative-image/YUANJINGDACHUANGFANG/?page=2"
               }
             ]
           },
@@ -1406,13 +1469,6 @@
                 "title": "Youtube 下载器：通过一个扩展程序从 Vimeo、Facebook 和 Dailymotion 上免费下载所有视频",
                 "icon": "https://logo.clearbit.com/zh.savefrom.net",
                 "url": "https://zh.savefrom.net/user.php?vid=312"
-              },
-              {
-                "type": "link",
-                "addDate": 1614232519000,
-                "title": "从YouTube下载视频和音频",
-                "icon": "https://logo.clearbit.com/www.y2mate.com",
-                "url": "https://www.y2mate.com/zh-cn/youtube/LHKD8gvE3b8"
               },
               {
                 "type": "link",
@@ -1462,6 +1518,34 @@
                 "title": "如何下载YouTube视频-保存来自YouTube的视频，快速，免费",
                 "icon": "https://logo.clearbit.com/zh.savefrom.net",
                 "url": "https://zh.savefrom.net/1-how-to-download-youtube-video-91Ao.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1745373969731,
+                "title": "抖音短视频在线去水印解析下载网站－全网最好用的抖音短视频在线去水印平台",
+                "icon": "https://logo.clearbit.com/kaolajiexi.cn",
+                "url": "https://kaolajiexi.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1755072769841,
+                "title": "抖音无水印视频下载解析 - DouYin - PeanutDL",
+                "icon": "https://logo.clearbit.com/peanutdl.com",
+                "url": "https://peanutdl.com/zh/douyin"
+              },
+              {
+                "type": "link",
+                "addDate": 1755086358969,
+                "title": "小红书视频、图片去水印解析下载",
+                "icon": "https://logo.clearbit.com/vtool.pro",
+                "url": "https://vtool.pro/xiaohongshu.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1761618345343,
+                "title": "YouTube高清视频下载 - 油管(YouTube)视频解析下载保存到手机、电脑",
+                "icon": "https://logo.clearbit.com/youtube.iiilab.com",
+                "url": "https://youtube.iiilab.com/"
               }
             ]
           },
@@ -1504,6 +1588,13 @@
                 "title": "音乐搜索器 - 多站合一音乐搜索,音乐在线试听",
                 "icon": "https://logo.clearbit.com/music.hi.cn",
                 "url": "http://music.hi.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1706358864558,
+                "title": "在线免费文字转语音 - TTSMaker官网 | 马克配音",
+                "icon": "https://logo.clearbit.com/ttsmaker.cn",
+                "url": "https://ttsmaker.cn/"
               }
             ]
           },
@@ -1637,6 +1728,13 @@
                 "title": "银河直播",
                 "icon": "https://logo.clearbit.com/yxzhi.lanzoub.com",
                 "url": "https://yxzhi.lanzoub.com/b03r23scb"
+              },
+              {
+                "type": "link",
+                "addDate": 1752467556829,
+                "title": "酷我音乐PC版 V9.2.0.0 破解豪华VIP去广告绿色版 – 小兵下载站",
+                "icon": "https://logo.clearbit.com/www.7xiazai.com",
+                "url": "https://www.7xiazai.com/kuwo-music"
               }
             ]
           },
@@ -1973,6 +2071,27 @@
                 "title": "编辑器 - 我的作品 - 共创世界(ccw.site) - Scratch、游戏、动画、漫画、小说、编程创作社区",
                 "icon": "https://logo.clearbit.com/www.ccw.site",
                 "url": "https://www.ccw.site/gandi?c=landingPage1"
+              },
+              {
+                "type": "link",
+                "addDate": 1750382079867,
+                "title": "产品 - 仓耳屏显字库 - 仓耳字体|屏幕显示字体|艺术字体|免费字体|仓耳字库官网",
+                "icon": "https://logo.clearbit.com/www.tsanger.cn",
+                "url": "https://www.tsanger.cn/product"
+              },
+              {
+                "type": "link",
+                "addDate": 1750430783110,
+                "title": "Twilio Console",
+                "icon": "https://logo.clearbit.com/console.twilio.com",
+                "url": "https://console.twilio.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1751076218012,
+                "title": "风鸟-企业查询平台-轻松查企业-查失信-查法人-企业信用-工商查询",
+                "icon": "https://logo.clearbit.com/www.riskbird.com",
+                "url": "https://www.riskbird.com/"
               }
             ]
           },
@@ -2484,6 +2603,69 @@
                 "title": "meilisearch/meilisearch: A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/meilisearch/meilisearch"
+              },
+              {
+                "type": "link",
+                "addDate": 1746399148259,
+                "title": "zxlie/FeHelper: 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/zxlie/FeHelper"
+              },
+              {
+                "type": "link",
+                "addDate": 1748471470076,
+                "title": "agentcodee/cursor-free-everyday: 完全免费, 自动获取新账号,一键重置新额度, 解决机器码问题, 自动满额度",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/agentcodee/cursor-free-everyday"
+              },
+              {
+                "type": "link",
+                "addDate": 1748988582151,
+                "title": "civilblur/mazanoke: A self-hosted local image optimizer that runs in your browser.",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/civilblur/mazanoke"
+              },
+              {
+                "type": "link",
+                "addDate": 1749251597438,
+                "title": "frdel/agent-zero: Agent Zero AI framework",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/frdel/agent-zero"
+              },
+              {
+                "type": "link",
+                "addDate": 1749421765988,
+                "title": "chinese-poetry/chinese-poetry: The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/chinese-poetry/chinese-poetry"
+              },
+              {
+                "type": "link",
+                "addDate": 1750119210476,
+                "title": "查找设备 - Apple iCloud",
+                "icon": "https://logo.clearbit.com/www.icloud.com.cn",
+                "url": "https://www.icloud.com.cn/find"
+              },
+              {
+                "type": "link",
+                "addDate": 1751925050093,
+                "title": "GitHub - elizaOS/eliza: Autonomous agents for everyone",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/elizaOS/eliza"
+              },
+              {
+                "type": "link",
+                "addDate": 1758497356450,
+                "title": "robert-mcdermott/ai-knowledge-graph: AI Powered Knowledge Graph Generator",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/robert-mcdermott/ai-knowledge-graph"
+              },
+              {
+                "type": "link",
+                "addDate": 1762213828004,
+                "title": "Welcome • freemediaheckyeah",
+                "icon": "https://logo.clearbit.com/fmhy.net",
+                "url": "https://fmhy.net/"
               }
             ]
           },
@@ -2872,27 +3054,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1587270440000,
-                "title": "【小学生古诗文绘本112首+18篇（上）】凤凰FM,亲子",
-                "icon": "https://logo.clearbit.com/m.fm.ifeng.com",
-                "url": "http://m.fm.ifeng.com/index.php/List/albumDetails/401435/2.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1587270435000,
-                "title": "【新课标统编版小学生古诗词绘本（中册）】凤凰FM,亲子",
-                "icon": "https://logo.clearbit.com/m.fm.ifeng.com",
-                "url": "http://m.fm.ifeng.com/index.php/List/albumDetails/366509.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1587270423000,
-                "title": "【新课标统编版小学生古诗词绘本（下册）】在线收听_mp3下载_ 凤凰FM官网",
-                "icon": "https://logo.clearbit.com/diantai.ifeng.com",
-                "url": "http://diantai.ifeng.com/index.php/public/programnavDetails?pid=366510"
-              },
-              {
-                "type": "link",
                 "addDate": 1652085201935,
                 "title": "古代诗人大全2",
                 "icon": "https://logo.clearbit.com/www.gushimi.org",
@@ -2967,6 +3128,20 @@
                 "title": "课程学习",
                 "icon": "https://logo.clearbit.com/tongbu.eduyun.cn",
                 "url": "http://tongbu.eduyun.cn/tbkt/tbkthtml/h5.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1745929355513,
+                "title": "教务处",
+                "icon": "https://logo.clearbit.com/jwc.usst.edu.cn",
+                "url": "https://jwc.usst.edu.cn/jpkc/heat_transfer/index.psp"
+              },
+              {
+                "type": "link",
+                "addDate": 1758186247807,
+                "title": "上海理工大学",
+                "icon": "https://logo.clearbit.com/jwgl.usst.edu.cn",
+                "url": "https://jwgl.usst.edu.cn/jwglxt/xtgl/index_initMenu.html?jsdm=xs&_t=1737785218354"
               }
             ]
           },
@@ -3464,6 +3639,13 @@
                 "title": "中国传媒大学",
                 "icon": "https://logo.clearbit.com/mba.cuc.edu.cn",
                 "url": "https://mba.cuc.edu.cn/_web/_search/web3/search.html?t=1&locale=zh_CN&request_locale=zh_CN&context=&_p=YXM9MjAyJnQ9NzYwJmQ9Mzk1MCZwPTImZj0xMDkyNiZtPVNOJnxibm5Db2x1bW5WaXJ0dWFsTmFtZT0xMDkyNiY_&keyword=%E7%9C%9F%E9%A2%98"
+              },
+              {
+                "type": "link",
+                "addDate": 1757817123237,
+                "title": "图书馆",
+                "icon": "https://logo.clearbit.com/lib.hntou.edu.cn",
+                "url": "https://lib.hntou.edu.cn/zycz/zwsjk/201912/t20191211_27547.html"
               }
             ]
           },
@@ -3681,6 +3863,20 @@
                 "title": "轻工教学服务网",
                 "icon": "https://logo.clearbit.com/edu.chlip.com.cn",
                 "url": "https://edu.chlip.com.cn/blog"
+              },
+              {
+                "type": "link",
+                "addDate": 1746776369290,
+                "title": "资源下载",
+                "icon": "https://logo.clearbit.com/www.c-textilep.com",
+                "url": "https://www.c-textilep.com/resources"
+              },
+              {
+                "type": "link",
+                "addDate": 1747201759986,
+                "title": "图书中心",
+                "icon": "https://logo.clearbit.com/bookcenter.hustp.com",
+                "url": "https://bookcenter.hustp.com/detail/1294.html"
               }
             ]
           },
@@ -4285,6 +4481,48 @@
             "title": "用户中心设置",
             "icon": "https://logo.clearbit.com/sms-activate.io",
             "url": "https://sms-activate.io/cn/profile"
+          },
+          {
+            "type": "link",
+            "addDate": 1752183077169,
+            "title": "Spug推送助手 - 消息通知一个请求搞定",
+            "icon": "https://logo.clearbit.com/push.spug.cc",
+            "url": "https://push.spug.cc/"
+          },
+          {
+            "type": "link",
+            "addDate": 1752275661498,
+            "title": "10 Minute Mail - Free Anonymous Temporary email",
+            "icon": "https://logo.clearbit.com/10minutemail.com",
+            "url": "https://10minutemail.com/?lang=zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1752729396395,
+            "title": "入校码",
+            "icon": "https://logo.clearbit.com/ehall.szpu.edu.cn",
+            "url": "https://ehall.szpu.edu.cn/publicappinternet/sys/szptpubyhjkk/*default/index.do?nodeId=0&taskId=0&processInstanceId=0&instId=0&defId=0&defKey=0"
+          },
+          {
+            "type": "link",
+            "addDate": 1752897049298,
+            "title": "免费在线接收短信,美国电话号码+19709190888‬收验证码 - 接码号",
+            "icon": "https://logo.clearbit.com/jiemahao.com",
+            "url": "https://jiemahao.com/sms/?phone=40"
+          },
+          {
+            "type": "link",
+            "addDate": 1752897560516,
+            "title": "Receive SMS online - France, Germany, Romania, Spain, United Kingdom, USA, and more ...",
+            "icon": "https://logo.clearbit.com/sms-receive.net",
+            "url": "https://sms-receive.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1752922936202,
+            "title": "Moakt Email || 临时邮箱专业服务",
+            "icon": "https://logo.clearbit.com/www.moakt.com",
+            "url": "https://www.moakt.com/zh/inbox"
           }
         ]
       },
@@ -4339,13 +4577,6 @@
                 "title": "What Does PS Mean: How to use it like a pro in Your Emails– INK Blog",
                 "icon": "https://logo.clearbit.com/blog.inkforall.com",
                 "url": "https://blog.inkforall.com/what-does-ps-mean"
-              },
-              {
-                "type": "link",
-                "addDate": 1557993819000,
-                "title": "出国旅游情景对话:住宿篇 第22期:请门童帮忙_行业英语口语 - 可可英语",
-                "icon": "https://logo.clearbit.com/www.kekenet.com",
-                "url": "http://www.kekenet.com/kouyu/201501/352334.shtml"
               },
               {
                 "type": "link",
@@ -4772,60 +5003,102 @@
         ]
       },
       {
-        "type": "link",
-        "addDate": 1706359549626,
-        "title": "文心一言",
-        "icon": "https://logo.clearbit.com/yiyan.baidu.com",
-        "url": "https://yiyan.baidu.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1745136210359,
-        "title": "腾讯元宝 - 轻松工作 多点生活",
-        "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
-        "url": "https://yuanbao.tencent.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1745136187053,
-        "title": "通义 - 你的实用AI助手",
-        "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
-        "url": "https://tongyi.aliyun.com/qianwen/"
-      },
-      {
-        "type": "link",
-        "addDate": 1738309708243,
-        "title": "Qwen",
-        "icon": "https://logo.clearbit.com/chat.qwenlm.ai",
-        "url": "https://chat.qwenlm.ai/"
-      },
-      {
-        "type": "link",
-        "addDate": 1745135826234,
-        "title": "豆包 - 字节跳动旗下 AI 智能助手",
-        "icon": "https://logo.clearbit.com/www.doubao.com",
-        "url": "https://www.doubao.com/chat/"
-      },
-      {
-        "type": "link",
-        "addDate": 1701176097843,
-        "title": "Kimi Chat - 帮你看更大的世界",
-        "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
-        "url": "https://kimi.moonshot.cn/chat/cliu5it0tc14igj6mr40"
-      },
-      {
-        "type": "link",
-        "addDate": 1745135843936,
-        "title": "App unavailable \\ Anthropic",
-        "icon": "https://logo.clearbit.com/claude.ai",
-        "url": "https://claude.ai/"
-      },
-      {
-        "type": "link",
-        "addDate": 1745135861697,
-        "title": "Gemini",
-        "icon": "https://logo.clearbit.com/aistudio.google.com",
-        "url": "https://aistudio.google.com/"
+        "type": "folder",
+        "addDate": 1623199067426,
+        "title": "效率",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1382684062000,
+            "title": "Google 帐户",
+            "icon": "https://logo.clearbit.com/accounts.google.com",
+            "url": "https://accounts.google.com/ServiceLogin?hl=zh-CN&continue=https://www.google.com.hk/search%3Fnewwindow%3D1%26safe%3Dstrict%26espv%3D210%26es_sm%3D122%26q%3D%25E6%25A1%258C%25E9%259D%25A2%25E6%2597%25A5%25E5%258E%2586%26oq%3D%25E6%25A1%258C%25E9%259D%25A2%25E6%2597%25A5%25E5%258E%2586%26gs_l%3Dserp.3..0l10.1833568.1837727.0.1838078.13.9.4.0.0.0.98.614.8.8.0....0...1c.1j4.29.serp..2.11.525.alWD8ke7p44"
+          },
+          {
+            "type": "link",
+            "addDate": 1428330854000,
+            "title": "Social Media Profiles High Detail (Module & Plugin)",
+            "icon": "https://logo.clearbit.com/www.free-extensions-fervor.com",
+            "url": "http://www.free-extensions-fervor.com/joomla-extensions/social-media-profiles-high-detail.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1623199091238,
+            "title": "主页 - BBC News 中文",
+            "icon": "https://logo.clearbit.com/www.bbc.com",
+            "url": "https://www.bbc.com/zhongwen/simp"
+          },
+          {
+            "type": "link",
+            "addDate": 1628055670665,
+            "title": "史上最全面的中西餐及饮品的菜单英文译法.pdf",
+            "icon": "https://logo.clearbit.com/",
+            "url": "file:///C:/Users/Miro/Desktop/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%85%A8%E9%9D%A2%E7%9A%84%E4%B8%AD%E8%A5%BF%E9%A4%90%E5%8F%8A%E9%A5%AE%E5%93%81%E7%9A%84%E8%8F%9C%E5%8D%95%E8%8B%B1%E6%96%87%E8%AF%91%E6%B3%95.pdf"
+          },
+          {
+            "type": "link",
+            "addDate": 1706359549626,
+            "title": "文心一言",
+            "icon": "https://logo.clearbit.com/yiyan.baidu.com",
+            "url": "https://yiyan.baidu.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1745136210359,
+            "title": "腾讯元宝 - 轻松工作 多点生活",
+            "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
+            "url": "https://yuanbao.tencent.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1745136187053,
+            "title": "通义 - 你的实用AI助手",
+            "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+            "url": "https://tongyi.aliyun.com/qianwen/"
+          },
+          {
+            "type": "link",
+            "addDate": 1738309708243,
+            "title": "Qwen",
+            "icon": "https://logo.clearbit.com/chat.qwenlm.ai",
+            "url": "https://chat.qwenlm.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1701176097843,
+            "title": "Kimi Chat - 帮你看更大的世界",
+            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+            "url": "https://kimi.moonshot.cn/chat/cliu5it0tc14igj6mr40"
+          },
+          {
+            "type": "link",
+            "addDate": 1745135843936,
+            "title": "App unavailable \\ Anthropic",
+            "icon": "https://logo.clearbit.com/claude.ai",
+            "url": "https://claude.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1745135861697,
+            "title": "Gemini",
+            "icon": "https://logo.clearbit.com/aistudio.google.com",
+            "url": "https://aistudio.google.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1745141363118,
+            "title": "一键生成高清证件照 · 创空间",
+            "icon": "https://logo.clearbit.com/www.modelscope.cn",
+            "url": "https://www.modelscope.cn/studios/SwanLab/HivisionIDPhotos"
+          },
+          {
+            "type": "link",
+            "addDate": 1745136424342,
+            "title": "扣子",
+            "icon": "https://logo.clearbit.com/www.coze.cn",
+            "url": "https://www.coze.cn/"
+          }
+        ]
       },
       {
         "type": "link",
@@ -4850,10 +5123,45 @@
       },
       {
         "type": "link",
-        "addDate": 1612437461000,
-        "title": "设置",
-        "icon": "https://logo.clearbit.com/settings",
-        "url": "edge://settings/"
+        "addDate": 1745135826234,
+        "title": "豆包 - 字节跳动旗下 AI 智能助手",
+        "icon": "https://logo.clearbit.com/www.doubao.com",
+        "url": "https://www.doubao.com/chat/"
+      },
+      {
+        "type": "link",
+        "addDate": 1762420884099,
+        "title": "腾讯元宝 - 轻松工作 多点生活",
+        "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
+        "url": "https://yuanbao.tencent.com/chat/naQivTmsDa"
+      },
+      {
+        "type": "link",
+        "addDate": 1762420817158,
+        "title": "主页 - 扣子",
+        "icon": "https://logo.clearbit.com/www.coze.cn",
+        "url": "https://www.coze.cn/home"
+      },
+      {
+        "type": "link",
+        "addDate": 1762420833861,
+        "title": "扣子空间 - AI 办公助手",
+        "icon": "https://logo.clearbit.com/space.coze.cn",
+        "url": "https://space.coze.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1762420841092,
+        "title": "Qwen",
+        "icon": "https://logo.clearbit.com/chat.qwen.ai",
+        "url": "https://chat.qwen.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1762420789941,
+        "title": "Kimi - 更强大的 AI 助手",
+        "icon": "https://logo.clearbit.com/www.kimi.com",
+        "url": "https://www.kimi.com/"
       },
       {
         "type": "link",
@@ -4861,27 +5169,6 @@
         "title": "编辑",
         "icon": "https://logo.clearbit.com/www.yunjiaocai.cn",
         "url": "https://www.yunjiaocai.cn/api/beverage/edit/"
-      },
-      {
-        "type": "link",
-        "addDate": 1683630023156,
-        "title": "在线抠图 - 在线工具",
-        "icon": "https://logo.clearbit.com/tool.lu",
-        "url": "https://tool.lu/cutout/"
-      },
-      {
-        "type": "link",
-        "addDate": 1706358864558,
-        "title": "在线免费文字转语音 - TTSMaker官网 | 马克配音",
-        "icon": "https://logo.clearbit.com/ttsmaker.cn",
-        "url": "https://ttsmaker.cn/"
-      },
-      {
-        "type": "link",
-        "addDate": 1726962112148,
-        "title": "AI大模型 对比测试",
-        "icon": "https://logo.clearbit.com/lmarena.ai",
-        "url": "https://lmarena.ai/"
       },
       {
         "type": "link",
@@ -4920,6 +5207,13 @@
       },
       {
         "type": "link",
+        "addDate": 1743724105499,
+        "title": "软考",
+        "icon": "https://logo.clearbit.com/ruankaodaren.com",
+        "url": "https://ruankaodaren.com/exam/#/"
+      },
+      {
+        "type": "link",
         "addDate": 1745117366056,
         "title": "GitHub",
         "icon": "https://logo.clearbit.com/github.com",
@@ -4927,10 +5221,10 @@
       },
       {
         "type": "link",
-        "addDate": 1745136424342,
-        "title": "扣子",
-        "icon": "https://logo.clearbit.com/www.coze.cn",
-        "url": "https://www.coze.cn/"
+        "addDate": 1744811396737,
+        "title": "数方 ",
+        "icon": "https://logo.clearbit.com/cn.puzzle-shikaku.com",
+        "url": "https://cn.puzzle-shikaku.com/?size=3"
       }
     ]
   }
